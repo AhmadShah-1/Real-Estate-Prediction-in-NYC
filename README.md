@@ -29,7 +29,23 @@ By integrating rigorous data preprocessing, model comparisons, and advanced visu
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Real-Estate-Prediction-in-NYC.git
+   git clone https://github.com/AhmadShah-1/Real-Estate-Prediction-in-NYC.git
    cd Real-Estate-Prediction-in-NYC
 
-   
+## Run Code
+1. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+2. Open the notebook from the directory and run the cells sequentially to:
+   a. Preprocess the data
+   b. Train and evaluate different models
+   c. Visualize Results
+
+
+License
+This project is licensed under the MIT License.
+
+Contact
+For any questions or suggestions, please contact:
+Ahmad Shah: sshah6@stevens.edu
+
